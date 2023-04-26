@@ -1,1 +1,1 @@
-# https://curriculoprofissional.netlify.app
+# Curriculo Profissional : https://curriculoprofissional-yuuotosaka.netlify.app/
